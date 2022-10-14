@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Esra 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in Front-End Developing
+- 🌱 I’m currently learning HTML-CSS-JS 
